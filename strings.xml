@@ -21,10 +21,10 @@
   <string name="add">加入</string>
   <!-​​-common-->
   <!-​​-connection-->
-  <string name="connectionlostmessage">一旦網路可用，即會發生自動重新連接。按“確定”關閉此對話框。連接恢復後，您將得到通知。 </string>
-  <string name="connectionlost">連接已丟失</string>
-  <string name="connectionrestored">連接已恢復</string>
-  <string name="connectionrestoredmessage">我們已經成功地恢復您的連接。按“確定”繼續使用該應用程式。 </string>
+  <string name="connectionlostmessage">一旦網路可用，即會發生自動重新連線。按“確定”關閉此對話框。連線修復後，將立即通知您。 </string>
+  <string name="connectionlost">連線失敗</string>
+  <string name="connectionrestored">連接已修復</string>
+  <string name="connectionrestoredmessage">我們已經成功地修復您的連接。按“確定”繼續使用該應用程式。 </string>
   <!-​​-connection-->
   <!-​​-mainwindow En begin-->
   <string name="apprunning">%1$s 正在運行...</string>
@@ -32,18 +32,18 @@
   <string name="loadingcontacts">正在載入聯絡人</string>
   <string name="searchingcontacts">正在搜尋聯絡人</string>
   <string name="loadingcallhistory">正在載入通話記錄</string>
-  <string name="btn_search_addcontact">加入到本地聯絡人</string>
+  <string name="btn_search_addcontact">加入到手機聯絡人</string>
   <string name="btn_search_add_to_contacts">加入到聯絡人</string>
   <string name="btn_start_chat">發送 IM 訊息</string>
-  <string name="add_to_favorites">加入至我的最愛</string>
+  <string name="add_to_favorites">加入至常用聯絡人</string>
   <string name="remove_from_favorites">從“常用聯絡人”刪除</string>
-  <string name="contact_addtrue">%1$s 已加入到聯絡人列表。 </string>
-  <string name="contact_addfalse">將%s 加入到聯絡人列表失敗</string>
-  <string name="search_exists">聯絡人列表中已存在%1$s</string>
+  <string name="contact_addtrue">%1$s 已加入到通訊錄。 </string>
+  <string name="contact_addfalse">將%s 加入到通訊錄失敗</string>
+  <string name="search_exists">通訊錄中已存在%1$s</string>
   <string name="group_exists">具有此名稱的群組已經存在</string>
   <!-​​-search end-->
   <!-​​-login begin-->
-  <string name="connectfault">連接服務器失敗。 </string>
+  <string name="connectfault">伺服器連線失敗。 </string>
   <string name="phonenumber">電話號碼</string>
   <string name="auto_login">自動登入</string>
   <string name="forgot_my_password">忘記密碼</string>
@@ -53,8 +53,8 @@
   <string name="app_login_password_hint">密碼</string>
   <string name="signing">正在登入</string>
   <string name="signouting">正在登出</string>
-  <string name="please_input_server_url">請輸入服務器URL。 </string>
-  <string name="check_network_settings">無連接。請檢查網路設置。 </string>
+  <string name="please_input_server_url">請輸入伺服器 URL。 </string>
+  <string name="check_network_settings">無連線。請檢查網路設置。 </string>
   <string name="loginfault">無法登入。 </string>
   <string name="username_input_check">請輸入正確的用戶名。 </string>
   <string name="i_accept">我同意</string>
@@ -63,7 +63,7 @@
   <string name="managegroup">群組</string>
   <!-​​-group End-->
   <string name="menu_voipcall">VoIP 通話</string>
-  <string name="menu_videocall">視頻通話</string>
+  <string name="menu_videocall">視訊通話</string>
   <string name="menu_contactcard">聯絡人名片</string>
   <!-​​-Contact detail Begin-->
   <string name="adding_contact_in_progress">正在處理“聯絡人”</string>
@@ -79,7 +79,7 @@
   <string name="blockcontactfailed">無法封鎖聯絡人。 </string>
   <string name="unblockcontactfailed">無法解除封鎖聯絡人。 </string>
   <string name="contact_search_hint">搜尋聯絡人</string>
-  <string name="please_input_contact_information">請輸入私人電話號碼、撥入號碼或 IM 地址以創建聯絡人</string>
+  <string name="please_input_contact_information">請輸入私人電話號碼、撥入號碼或 IM 地址以建立聯絡人</string>
   <string name="please_input_conference_information">請輸入撥入號碼以創建會議聯絡人</string>
   <string name="please_input_group_name">請輸入分組名稱。 </string>
   <string name="invalidcontactname">無效字符，請檢查您的輸入</string>
