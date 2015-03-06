@@ -36,7 +36,7 @@
   <string name="callsettings_dnd">請勿打擾</string>
   <string name="callsettings_sim_ringing">同步響鈴</string>
   <string name="callsettings_sim_ringing_config">同步響鈴設置</string>
-  <string name="callsettings_call_waiting">來電差撥提示</string>
+  <string name="callsettings_call_waiting">來電插撥提示</string>
   <string name="callsettings_call_forward_no_answer">無人應答時轉移</string>
   <string name="callsettings_call_forward_unreachable">無法接通時轉移</string>
   <string name="welcome_text_short">歡迎</string>
